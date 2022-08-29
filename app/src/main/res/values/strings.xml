@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Geo Live Location</string>
+
+    <string name="gps_enable">GPS Enable</string>
+    <string name="please_turn_on_gps">Please turn on GPS</string>
+    <string name="ok">OK</string>
+    <string name="service_start_successfully">service start successfully</string>
+    <string name="service_already_running">service already running</string>
+
+</resources>
